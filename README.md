@@ -12,6 +12,7 @@ verificar a lista de pessoas.
 - JDK;
 - Banco de dados H2;
 - IDE para desenvolvimento (utilizado Eclipse 12-2021);
+- Insomnia ou Postman para realizar os testes em Json.
 
 ## Autor:
 - Nome: Henrique Leonardo Delbo
